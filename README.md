@@ -1,4 +1,7 @@
 # WebSenior-Proyecto
-Proyecto de la Asignatura "Implantación y Mantenimiento de Sistemas"
-En este proyecto logramos realizar un aplicativo web llamado "WebSenior" con la finalidad de ayudar a los adultos mayores a que conozcan o mejoren sus habilidades para desafiar el reto que les interpone la era digital.
-Cabe mencionar que este proyecto, es un proyecto "escalable" lo que permite que en algún futuro si se sigue desarrollando este proyecto pueda ofrecer mucho más de lo que se ofrece en la version actual.
+
+**WebSenior-Proyecto** es un proyecto desarrollado para la asignatura "Implantación y Mantenimiento de Sistemas". Se trata de una aplicación web diseñada con el propósito de ayudar a los adultos mayores a familiarizarse con el mundo digital, brindándoles la oportunidad de adquirir nuevas habilidades o mejorar las ya existentes.
+
+El principal objetivo de **WebSenior** es desafiar los obstáculos que la era digital puede imponer a los adultos mayores, proporcionándoles una plataforma amigable y accesible.
+
+Es importante destacar que este proyecto ha sido diseñado para ser escalable. Esto significa que, aunque ya ofrece un amplio conjunto de funcionalidades, está preparado para expandirse y ofrecer mucho más en futuras versiones, claro, si se continúa su desarrollo.
