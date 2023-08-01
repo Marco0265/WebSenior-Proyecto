@@ -4,4 +4,4 @@
 
 El principal objetivo de **WebSenior** es desafiar los obstáculos que la era digital puede imponer a los adultos mayores, proporcionándoles una plataforma amigable y accesible.
 
-Es importante destacar que este proyecto ha sido diseñado para ser escalable. Esto significa que, aunque ya ofrece un amplio conjunto de funcionalidades, está preparado para expandirse y ofrecer mucho más en futuras versiones, claro, si se continúa su desarrollo.
+Es importante resaltar que este proyecto, es un proyecto "escalable" lo que permite que en algún futuro si se sigue desarrollando este proyecto pueda ofrecer mucho más de lo que se ofrece en la version actual.
